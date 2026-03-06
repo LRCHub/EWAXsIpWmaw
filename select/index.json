@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シリーテラー",
+  "base_artist": "r-906",
+  "createdAt": "2026-03-06T08:48:31.329581Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シリーテラー (feat. IA)",
+      "artist": "r-906, IA",
+      "has_synced": false,
+      "path": "select/pl_01_シリーテラー_(feat._IA)_r-906,_IA.txt"
+    }
+  ]
+}
